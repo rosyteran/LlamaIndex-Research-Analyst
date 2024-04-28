@@ -1,5 +1,4 @@
-
-# AI Equity Research Analyst with LlamaIndex
+# LlamaIndex Research Analyst
 
 Welcome to the AI Equity Research Analyst demo project! This application showcases the power of Large Language Models (LLMs) in generating equity research reports.
 
